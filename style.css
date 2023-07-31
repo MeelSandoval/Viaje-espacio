@@ -1,0 +1,184 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/49/b6/37/49b637fd3847af0002547f3b555917d4.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    font-family: 'Cinzel', serif;
+    margin: 100px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+}
+   
+ 
+ header{
+     width: 100%;
+     height: auto;
+ }
+ 
+ 
+ header nav .menu{
+   
+     list-style: none;
+     display: flex;
+     justify-content:center
+     
+ }
+ 
+ header nav a{
+
+     margin-right: 1em;
+     color: #dbb7d2;
+     font-size: 25px;
+     font-weight:bold;
+     font-family: Arial, Helvetica, sans-serif;
+     text-decoration: none;
+     padding-left: 1px;
+
+ }
+
+ header nav a:hover{
+    text-decoration: underline;
+ }
+ 
+ .titulo-principal{
+
+     color: #56b4df;
+     display: flex;
+     justify-content: center;
+     padding-left: 60px;
+     font-family: 'Caprasimo';
+     font-weight: lighter;
+     font-size: 120px; 
+     text-shadow: 1px 2px 3px #f1f1f156;
+     margin-top: 30px;
+     margin-bottom: 120px;
+ }
+
+ .album{
+  
+    justify-content: center;
+    margin-top: -10px;
+
+}
+ 
+ section h2{
+
+     margin: 3.5em 1em 0 1em;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     font-size: 35px;
+
+    
+ }
+ 
+ 
+ 
+ .astronautas{
+ 
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     height: auto;
+     color:#ebdb4f;
+     font-family: 'Caprasimo';
+     font-weight: lighter;
+    
+ }
+ 
+ .astronautas p{
+     margin: auto 1em 2em;
+
+ }
+ 
+ .astros{
+   
+     margin-bottom: 1.4em;
+     margin-top: 40px;
+     display: flex;
+     align-items: center;
+     font-size: 35px;
+     color:#dbb7d2;
+     font-family: 'Caprasimo';
+     font-weight: lighter;
+    
+ }
+ 
+ .divisiones{
+     display: flex;
+     justify-content: center;
+     
+ }
+ 
+ 
+ .Destacados h3{
+
+     font-size: 20px;
+     display: flex;
+     justify-content: center;
+     color: #56b4df;
+     font-family: 'Caprasimo';
+     font-weight: lighter;
+ }
+ 
+ .Destacados img{
+     width: 230px;
+     height: 220px;
+     margin-left: 3em;
+     margin-bottom: 2em;
+     border-radius: 100%;
+ }
+ 
+ .Destacados{
+     width: 33.3%;
+     text-align: justify;
+     margin: 1em;
+     color: #ffffff;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     text-shadow: 1px 2px 3px #000000;
+     background-color: rgba(240, 244, 244, 0.019);
+     border: 1px outset rgb(241, 185, 62);
+     padding: 1.4px;
+ }
+ 
+ .Destacados:hover{
+     box-shadow: 1px 1px 10px rgb(247, 228, 144);
+ }
+ 
+
+ 
+ .titulo-dos{
+
+     margin-top: 30px;
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     font-size: 55px;
+     color:#dbb7d2;
+     font-family: 'Caprasimo';
+     font-weight: lighter;
+ }
+ 
+ .origen-estrellas{
+
+     margin-bottom: 1.4em;
+     display: flex;
+     align-items: center;
+     font-size: 25px;
+    text-align: justify;
+     color: #ffffff;
+     
+ 
+ }
+ 
+ .test{
+ background-color: #0b2a3b;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    color: #dfba56;
+    font-family: 'Caprasimo';
+    font-weight: lighter;
+
+ }
+
